@@ -1,2 +1,2 @@
 # expo-reactnative-boilerplate
-Expo React Native Boilerplate
+Expo React Native Boilerplate using React Navigation and Native Base
